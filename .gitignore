@@ -1,0 +1,8 @@
+#Java classes
+*.class
+
+#Book
+*.pdf
+
+#Temorary
+*~
